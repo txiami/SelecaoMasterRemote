@@ -11,7 +11,7 @@ Ferramentas utilizadas:
 
 IDE= Android Studio;
 
-SDK=Android Studio; 
+SDK=Android SDK; 
 
 Linguagens de programação= Java;
 
